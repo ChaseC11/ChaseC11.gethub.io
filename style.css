@@ -1,0 +1,35 @@
+
+
+body{
+  background-image: url('https://cdn1.edgedatg.com/aws/v2/abc/OnHulu/tile/3744945/c69b97cb68f5a131e60928200dadd14e/764x430-Q80_c69b97cb68f5a131e60928200dadd14e.jpg');
+}
+
+h1{
+  color: green;
+
+  font-size: 45pt;
+}
+  body{
+    color: green;
+    black; 
+  }
+
+img {
+  margin:20px;
+  padding: 10px;
+  height:20%;
+  width:20%;
+}
+
+
+
+
+
+
+
+
+
+
+.btn {
+  padding: .55rem 1.5rem .45rem;
+}
